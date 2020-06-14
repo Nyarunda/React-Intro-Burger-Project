@@ -1,0 +1,16 @@
+.Container_Checkout {
+  text-align: center;
+  width: 80px;
+  margin: auto;
+}
+.CheckouSummary {
+  width: 100%;
+
+  margin: auto;
+}
+
+@media (min-width: 600px) {
+  .Container_Checkout {
+    width: 500px;
+  }
+}
